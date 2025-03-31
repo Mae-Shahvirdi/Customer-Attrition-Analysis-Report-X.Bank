@@ -37,7 +37,7 @@ This project investigates the key drivers of customer attrition at a fictional b
 
 ## Files Included
 - `MaeShahvirdi-Customer Attrition Analysis Report – X. Bank.pdf` – Full analysis report
-- `images/` – Visuals like decision tree and charts
+- `MaeShahvirdi-Customer Attrition Analysis Report – X. Bank.xlsx` – Contains the whole analysis and all of the visuals, charts and graphs
 
 ---
 
